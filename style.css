@@ -1,0 +1,40 @@
+*{margin: 0;}
+
+body{text-align: center;
+background-color: #534859;}
+
+
+
+#conteiner{ display: inline-block;
+text-align: center;}
+
+#titulo{font-size: 3em;
+    font-family: 'Open Sans Condensed', sans-serif; 
+color: #FBD0D0;}
+
+#subtitulo{font-size: 2em;
+    font-family: 'Open Sans Condensed', sans-serif; 
+color: #f8f0e8;}
+
+#resultado{width: 350px;
+height: 350px;
+display: none;
+border: 1px #f9688d solid;}
+
+#imagemDaWaifu{width: 350px;
+height: 350px;
+border: 1px #f9688d solid;}
+
+.botoes{background-color: #FBD0D0;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px #f9688d solid;
+    color: #534859 ;
+    font-family: 'Open Sans Condensed', sans-serif; 
+
+}
+
+#encontrar{display: inline-block; 
+}
+
+#tentarDeNovo{display: none;}
